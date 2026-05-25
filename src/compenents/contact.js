@@ -12,9 +12,9 @@ function Contact() {
         <div class="lg:w-1/2 md:w-2/3 mx-auto">
           <div class="flex flex-wrap -m-2">
             <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-              <p>pcvsraman5059718@gmail.com</p>
+              <p>satyaramanp@gmail.com</p>
               <p class="leading-normal my-5">
-                Visakhapatnam, AP
+                Deggendorf, Bavaria, Germany
                 <br />
                 India
               </p>
